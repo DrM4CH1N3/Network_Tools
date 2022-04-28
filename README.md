@@ -12,7 +12,7 @@ Hi !
 
   This script is just a simple training to Shell / Bash scripting.
                     
-                    network_tools.sh
+     network_tools.sh
 
 [1] Network
 
