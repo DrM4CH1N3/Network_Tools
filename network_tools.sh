@@ -14,7 +14,7 @@ echo -e "\e[1;31mScripted by Cedric H.\e[0m"
 
 for i in 𝕯 𝖗. 𝕸 𝖆 𝖈 𝖍 𝖎 𝖓 𝖊
 do
-    echo -e "\e[31m$i\e[0m\c"
+    echo -e "\e[1;31m$i\e[0m\c"
     sleep 0.15
 done
 sleep 0.25
