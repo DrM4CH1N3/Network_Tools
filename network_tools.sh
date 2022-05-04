@@ -10,7 +10,7 @@
 clear
 #=============INTRO===========================
 clear
-echo -e "\e[1;31mCode by Cedric H.\e[0m"
+echo -e "\n\n\n\n\e[1;31mCode by Cedric H.\e[0m"
 
 for i in 𝕯 𝖗. 𝕸 𝖆 𝖈 𝖍 𝖎 𝖓 𝖊
 do
