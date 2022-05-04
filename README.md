@@ -16,9 +16,9 @@ Hi !
 
 [1] Network
 
-     [1] Show my public IP   #Showing your public IP
-     [2] Show DNS server(s)  #Showing your dns server actually used
-     [3] Scan my Network     #Showing All machines on your Network
+     [1] Show my public IP   
+     [2] Show DNS server(s)  
+     [3] Scan my Network     
      
 [2] Subnetting
 
